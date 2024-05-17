@@ -1,0 +1,14 @@
+.seccion_perfil{
+    border: 2px solid black;
+}
+
+.foto_perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.titulo_pagina{
+    font-size: 40 px;
+    font-style: italic;
+}
